@@ -1,0 +1,16 @@
+{
+    "name": "Existing Dockerfile",
+    "context": "..",
+    "dockerFile": "Dockerfile",
+    "extensions": [
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "xyz.local-history",
+        "editorconfig.editorconfig",
+        "timonwong.shellcheck",
+        "mikestead.dotenv",
+        "lhl2617.VSLilyPond"
+    ],
+    "containerUser": "vscode",
+    "mounts": [],
+}
