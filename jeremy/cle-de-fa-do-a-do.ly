@@ -5,7 +5,6 @@
 
 \header {
   title = "do a do, clef de fa"
-  composer = \markup {\italic "Jeremy Tougas, octobre 2021"}
   tagline = ""
 }
 #(set-global-staff-size 28)
