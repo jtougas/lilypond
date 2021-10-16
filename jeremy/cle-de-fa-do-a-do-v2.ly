@@ -74,6 +74,8 @@
         la_\markup {\center-column { " " { ___ } } }
         do_\markup {\center-column { " " { ___ } } }
         \break
+
+
 	}
 
     \layout {
@@ -84,6 +86,14 @@
             \omit BarNumber
         }
     }
+}
+
+
+\markup {
+    \general-align #Y #DOWN {
+        \epsfile #X #60 #"middlec.eps"
+    }
+
 }
 
 \paper {
